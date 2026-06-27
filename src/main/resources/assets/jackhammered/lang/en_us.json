@@ -1,0 +1,13 @@
+{
+  "itemGroup.jackhammered": "Example Mod Tab",
+  "block.jackhammered.example_block": "Example Block",
+  "item.jackhammered.example_item": "Example Item",
+
+  "jackhammered.configuration.title": "Jackhammered Configs",
+  "jackhammered.configuration.section.jackhammered.common.toml": "Jackhammered Configs",
+  "jackhammered.configuration.section.jackhammered.common.toml.title": "Jackhammered Configs",
+  "jackhammered.configuration.items": "Item List",
+  "jackhammered.configuration.logDirtBlock": "Log Dirt Block",
+  "jackhammered.configuration.magicNumberIntroduction": "Magic Number Text",
+  "jackhammered.configuration.magicNumber": "Magic Number"
+}
